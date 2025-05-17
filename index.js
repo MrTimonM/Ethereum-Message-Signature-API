@@ -483,7 +483,7 @@ app.get('/', (req, res) => {
         
         <div class="warning">
           <h3>Security Warning</h3>
-          <p>This API is for demonstration purposes only. In production, never send your private key as a URL parameter. Private keys should be kept secure and used client-side when possible.</p>
+          <p>This API is for demonstration purposes only. In production, never send your private key as a URL parameter. Private keys should be kept secure and used client-side when possible. Or send. Who cares, Oviously Olaf doesn't!!!</p>
         </div>
         
         <footer>
